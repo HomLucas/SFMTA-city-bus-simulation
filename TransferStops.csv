@@ -1,0 +1,9 @@
+BUS STOP ID, LRV STOP ID,Description,Routes
+14805,15781,Balboa Park,8x-49
+14805,15418,Balboa Park,8x-K
+15781,15418,Balboa Park,49-K
+13163,15239,King & 4th,N-47 
+13163,17397,King & 4th,T-47
+16817,15419,Metro Van Ness,47-49-L-T-N
+13136,15731,Metro Montgomery,8x-L-T-N
+15926,15794,Ocean Lee & PHELAN Loop, 8x-49-K
