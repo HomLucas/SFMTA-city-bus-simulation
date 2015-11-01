@@ -1,5 +1,5 @@
 /*
- *  SFMTASimulator.java - 
+ *  SFMTASimulation.java - 
  *  This program emulates the bus lines using objects created in the SFMTASimulator class
  *  An SFMTA object creates the various lines that represent the multiple train lines in MUNI
  *  Each train line object has its set of vehicles and train stations
